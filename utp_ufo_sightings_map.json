@@ -1,0 +1,904 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "case_id": "location-country-location-state-location-city-unknown-date-0000-data-shape-0001",
+        "case_title": "Data.shape sighting in Location.City (unknown date)",
+        "city": "Location.City",
+        "state": "LOCATION.STATE",
+        "country": "LOCATION.COUNTRY",
+        "location_text": "Location.City, LOCATION.STATE, LOCATION.COUNTRY",
+        "shape": "data.shape",
+        "case_type": "variable / unclear",
+        "sighted_date": "",
+        "sighted_datetime": "",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Data.shape sighting in Location.City (unknown date). Reported unknown date in Location.City, LOCATION.STATE, LOCATION.COUNTRY. Data.Description excerpt",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.523,
+          33.3943
+        ]
+      },
+      "properties": {
+        "case_id": "us-new-mexico-roswell-1947-07-08-0000-debris-crash-0002",
+        "case_title": "Debris/crash sighting in Roswell (1947-07-08)",
+        "city": "Roswell",
+        "state": "NEW MEXICO",
+        "country": "US",
+        "location_text": "Roswell, NEW MEXICO, US",
+        "shape": "debris/crash",
+        "case_type": "variable / unclear",
+        "sighted_date": "1947-07-08T08:00:00.000Z",
+        "sighted_datetime": "1947-07-08T08:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Debris/crash sighting in Roswell (1947-07-08). Reported 1947-07-08 in Roswell, NEW MEXICO, US. A rancher found unusual debris on his property near Roswell, New Mexico in July 1947. Initially reported as a 'flying disc' by the local military base before being retracted as a…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7603,
+          46.8523
+        ]
+      },
+      "properties": {
+        "case_id": "us-washington-mount-rainier-area-1947-06-24-0000-disc-saucer-0003",
+        "case_title": "Disc/saucer sighting in Mount Rainier Area (1947-06-24)",
+        "city": "Mount Rainier Area",
+        "state": "WASHINGTON",
+        "country": "US",
+        "location_text": "Mount Rainier Area, WASHINGTON, US",
+        "shape": "disc/saucer",
+        "case_type": "variable / unclear",
+        "sighted_date": "1947-06-24T08:00:00.000Z",
+        "sighted_datetime": "1947-06-24T08:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Disc/saucer sighting in Mount Rainier Area (1947-06-24). Reported 1947-06-24 in Mount Rainier Area, WASHINGTON, US. Pilot Kenneth Arnold reported nine shiny, saucer-like objects flying in formation near Mount Rainier in 1947. His description of their movement led to the popularization of the te…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "case_id": "us-district-of-columbia-washington-1952-07-19-0000-light-radar-visual-0004",
+        "case_title": "Light/radar-visual sighting in Washington (1952-07-19)",
+        "city": "Washington",
+        "state": "DISTRICT OF COLUMBIA",
+        "country": "US",
+        "location_text": "Washington, DISTRICT OF COLUMBIA, US",
+        "shape": "light/radar-visual",
+        "case_type": "variable / unclear",
+        "sighted_date": "1952-07-19T07:00:00.000Z",
+        "sighted_datetime": "1952-07-19T07:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Light/radar-visual sighting in Washington (1952-07-19). Reported 1952-07-19 in Washington, DISTRICT OF COLUMBIA, US. In July 1952, radar targets and visual reports over Washington, D.C. created one of the most publicized UFO waves of the early Cold War period. The events drew press attention, of…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1987,
+          45.2108
+        ]
+      },
+      "properties": {
+        "case_id": "us-oregon-mcminnville-1950-05-11-0000-disc-0005",
+        "case_title": "Disc sighting in Mcminnville (1950-05-11)",
+        "city": "Mcminnville",
+        "state": "OREGON",
+        "country": "US",
+        "location_text": "Mcminnville, OREGON, US",
+        "shape": "disc",
+        "case_type": "variable / unclear",
+        "sighted_date": "1950-05-11T07:00:00.000Z",
+        "sighted_datetime": "1950-05-11T07:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Disc sighting in Mcminnville (1950-05-11). Reported 1950-05-11 in Mcminnville, OREGON, US. Paul and Evelyn Trent photographed a metallic disc-shaped object over their farm near McMinnville, Oregon in 1950. The two photographs became among the most analyzed and debated U…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8552,
+          33.5779
+        ]
+      },
+      "properties": {
+        "case_id": "us-texas-lubbock-1951-08-25-0000-formation-lights-0006",
+        "case_title": "Formation/lights sighting in Lubbock (1951-08-25)",
+        "city": "Lubbock",
+        "state": "TEXAS",
+        "country": "US",
+        "location_text": "Lubbock, TEXAS, US",
+        "shape": "formation/lights",
+        "case_type": "variable / unclear",
+        "sighted_date": "1951-08-25T07:00:00.000Z",
+        "sighted_datetime": "1951-08-25T07:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Formation/lights sighting in Lubbock (1951-08-25). Reported 1951-08-25 in Lubbock, TEXAS, US. Multiple witnesses including university professors observed V-shaped formations of bluish-green lights passing overhead near Lubbock, Texas in August 1951. The case became a bench…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6701,
+          44.0409
+        ]
+      },
+      "properties": {
+        "case_id": "us-new-hampshire-lincoln-area-1961-09-19-2230-star-disc-0007",
+        "case_title": "Star/disc sighting in Lincoln Area (1961-09-19)",
+        "city": "Lincoln Area",
+        "state": "NEW HAMPSHIRE",
+        "country": "US",
+        "location_text": "Lincoln Area, NEW HAMPSHIRE, US",
+        "shape": "star/disc",
+        "case_type": "variable / unclear",
+        "sighted_date": "1961-09-19T07:00:00.000Z",
+        "sighted_datetime": "1961-09-20T05:30:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Star/disc sighting in Lincoln Area (1961-09-19). Reported 1961-09-19 in Lincoln Area, NEW HAMPSHIRE, US. Betty and Barney Hill reported being followed and abducted by a craft while driving through New Hampshire in September 1961. Their account became the first widely publicized abduc…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8914,
+          34.0584
+        ]
+      },
+      "properties": {
+        "case_id": "us-new-mexico-socorro-1964-04-24-1745-egg-oval-0008",
+        "case_title": "Egg/oval sighting in Socorro (1964-04-24)",
+        "city": "Socorro",
+        "state": "NEW MEXICO",
+        "country": "US",
+        "location_text": "Socorro, NEW MEXICO, US",
+        "shape": "egg/oval",
+        "case_type": "variable / unclear",
+        "sighted_date": "1964-04-24T08:00:00.000Z",
+        "sighted_datetime": "1964-04-25T01:45:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Egg/oval sighting in Socorro (1964-04-24). Reported 1964-04-24 in Socorro, NEW MEXICO, US. Police officer Lonnie Zamora reported observing an egg-shaped craft and two small humanoid figures near Socorro, New Mexico in 1964. Physical landing traces were documented, makin…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9478,
+          42.9815
+        ]
+      },
+      "properties": {
+        "case_id": "us-new-hampshire-exeter-1965-09-03-0224-sphere-light-0009",
+        "case_title": "Sphere/light sighting in Exeter (1965-09-03)",
+        "city": "Exeter",
+        "state": "NEW HAMPSHIRE",
+        "country": "US",
+        "location_text": "Exeter, NEW HAMPSHIRE, US",
+        "shape": "sphere/light",
+        "case_type": "variable / unclear",
+        "sighted_date": "1965-09-03T07:00:00.000Z",
+        "sighted_datetime": "1965-09-03T09:24:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Sphere/light sighting in Exeter (1965-09-03). Reported 1965-09-03 in Exeter, NEW HAMPSHIRE, US. Multiple witnesses including police officers reported a large, low-flying object with bright pulsating lights near Exeter, New Hampshire in 1965. The event became one of the most…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.7236,
+          43.7219
+        ]
+      },
+      "properties": {
+        "case_id": "canada-nova-scotia-shag-harbour-1967-10-04-2320-unknown-water-impact-0010",
+        "case_title": "Unknown/water-impact sighting in Shag Harbour (1967-10-04)",
+        "city": "Shag Harbour",
+        "state": "NOVA SCOTIA",
+        "country": "CANADA",
+        "location_text": "Shag Harbour, NOVA SCOTIA, CANADA",
+        "shape": "unknown/water-impact",
+        "case_type": "variable / unclear",
+        "sighted_date": "1967-10-04T07:00:00.000Z",
+        "sighted_datetime": "1967-10-05T06:20:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Unknown/water-impact sighting in Shag Harbour (1967-10-04). Reported 1967-10-04 in Shag Harbour, NOVA SCOTIA, CANADA. Witnesses observed a luminous object descend and apparently impact the waters off Shag Harbour, Nova Scotia in October 1967. A subsequent search by Royal Canadian Mounted Police a…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5561,
+          30.3658
+        ]
+      },
+      "properties": {
+        "case_id": "us-mississippi-pascagoula-1973-10-11-2100-unknown-oval-0011",
+        "case_title": "Unknown/oval sighting in Pascagoula (1973-10-11)",
+        "city": "Pascagoula",
+        "state": "MISSISSIPPI",
+        "country": "US",
+        "location_text": "Pascagoula, MISSISSIPPI, US",
+        "shape": "unknown/oval",
+        "case_type": "variable / unclear",
+        "sighted_date": "1973-10-11T07:00:00.000Z",
+        "sighted_datetime": "1973-10-12T04:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Unknown/oval sighting in Pascagoula (1973-10-11). Reported 1973-10-11 in Pascagoula, MISSISSIPPI, US. Charles Hickson and Calvin Parker reported being abducted by humanoid beings while fishing along the Pascagoula River in Mississippi in October 1973. Their account is a defining c…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0767,
+          49.4521
+        ]
+      },
+      "properties": {
+        "case_id": "germany-bavaria-nuremberg-1561-04-14-0000-multi-sphere-0012",
+        "case_title": "Multi/sphere sighting in Nuremberg (1561-04-14)",
+        "city": "Nuremberg",
+        "state": "BAVARIA",
+        "country": "GERMANY",
+        "location_text": "Nuremberg, BAVARIA, GERMANY",
+        "shape": "multi/sphere",
+        "case_type": "variable / unclear",
+        "sighted_date": "1561-04-14T07:52:58.000Z",
+        "sighted_datetime": "1561-04-14T07:52:58.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Multi/sphere sighting in Nuremberg (1561-04-14). Reported 1561-04-14 in Nuremberg, BAVARIA, GERMANY. A broadside printed in Nuremberg in April 1561 described a mass aerial phenomenon involving spheres, cylinders, and crosses appearing to battle in the sky over the city at sunrise.",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5886,
+          47.5596
+        ]
+      },
+      "properties": {
+        "case_id": "switzerland-xx-basel-1566-08-07-0000-sphere-dark-0013",
+        "case_title": "Sphere/dark sighting in Basel (1566-08-07)",
+        "city": "Basel",
+        "state": "",
+        "country": "SWITZERLAND",
+        "location_text": "Basel, SWITZERLAND",
+        "shape": "sphere/dark",
+        "case_type": "variable / unclear",
+        "sighted_date": "1566-08-07T07:52:58.000Z",
+        "sighted_datetime": "1566-08-07T07:52:58.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Sphere/dark sighting in Basel (1566-08-07). Reported 1566-08-07 in Basel, SWITZERLAND. A 1566 Basel broadsheet illustration depicted large black spheres seen in the sky over the city, described as appearing to move and collide at sunrise on multiple consecutive days.",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5367,
+          33.7557
+        ]
+      },
+      "properties": {
+        "case_id": "us-texas-denison-1878-01-25-0000-daylight-object-0014",
+        "case_title": "Daylight object sighting in Denison (1878-01-25)",
+        "city": "Denison",
+        "state": "TEXAS",
+        "country": "US",
+        "location_text": "Denison, TEXAS, US",
+        "shape": "daylight object",
+        "case_type": "variable / unclear",
+        "sighted_date": "1878-01-25T07:52:58.000Z",
+        "sighted_datetime": "1878-01-25T07:52:58.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Daylight object sighting in Denison (1878-01-25). Reported 1878-01-25 in Denison, TEXAS, US. Farmer John Martin reported observing a fast-moving dark object resembling a balloon traveling at high speed near Denison, Texas in 1878, in what is often cited as one of the earl…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4179,
+          36.7783
+        ]
+      },
+      "properties": {
+        "case_id": "us-california-multiple-1896-11-01-0000-airship-light-0015",
+        "case_title": "Airship/light sighting in Multiple (1896-11-01)",
+        "city": "Multiple",
+        "state": "CALIFORNIA",
+        "country": "US",
+        "location_text": "Multiple, CALIFORNIA, US",
+        "shape": "airship/light",
+        "case_type": "variable / unclear",
+        "sighted_date": "1896-11-01T08:00:00.000Z",
+        "sighted_datetime": "1896-11-01T08:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Airship/light sighting in Multiple (1896-11-01). Reported 1896-11-01 in Multiple, CALIFORNIA, US. Beginning in November 1896, witnesses across California and the western United States reported a mysterious lighted airship traveling overhead, sparking a multi-state press wave d…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5034,
+          33.0584
+        ]
+      },
+      "properties": {
+        "case_id": "us-texas-aurora-1897-04-17-0600-cigar-crash-0016",
+        "case_title": "Cigar/crash sighting in Aurora (1897-04-17)",
+        "city": "Aurora",
+        "state": "TEXAS",
+        "country": "US",
+        "location_text": "Aurora, TEXAS, US",
+        "shape": "cigar/crash",
+        "case_type": "variable / unclear",
+        "sighted_date": "1897-04-17T08:00:00.000Z",
+        "sighted_datetime": "1897-04-17T14:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Cigar/crash sighting in Aurora (1897-04-17). Reported 1897-04-17 in Aurora, TEXAS, US. Local newspaper accounts described an airship crashing into a windmill in Aurora, Texas in April 1897, with reports of unusual wreckage and the burial of a non-human pilot at a lo…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      },
+      "properties": {
+        "case_id": "us-california-los-angeles-1942-02-25-0316-object-light-0017",
+        "case_title": "Object/light sighting in Los Angeles (1942-02-25)",
+        "city": "Los Angeles",
+        "state": "CALIFORNIA",
+        "country": "US",
+        "location_text": "Los Angeles, CALIFORNIA, US",
+        "shape": "object/light",
+        "case_type": "variable / unclear",
+        "sighted_date": "1942-02-25T07:00:00.000Z",
+        "sighted_datetime": "1942-02-25T10:16:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Object/light sighting in Los Angeles (1942-02-25). Reported 1942-02-25 in Los Angeles, CALIFORNIA, US. In the early morning of February 25, 1942, U.S. anti-aircraft batteries fired more than 1,400 shells at unidentified objects in the skies over Los Angeles, an event captured in ic…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "case_id": "multiple-xx-european-theater-1944-11-01-0000-light-orbs-0018",
+        "case_title": "Light/orbs sighting in European Theater (1944-11-01)",
+        "city": "European Theater",
+        "state": "",
+        "country": "MULTIPLE",
+        "location_text": "European Theater, MULTIPLE",
+        "shape": "light/orbs",
+        "case_type": "variable / unclear",
+        "sighted_date": "1944-11-01T07:00:00.000Z",
+        "sighted_datetime": "1944-11-01T07:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Light/orbs sighting in European Theater (1944-11-01). Reported 1944-11-01 in European Theater, MULTIPLE. Allied and Axis pilots during World War II reported small, glowing balls of light pacing their aircraft over Europe and the Pacific, dubbed 'foo fighters' by the press.",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6435,
+          60.1282
+        ]
+      },
+      "properties": {
+        "case_id": "sweden-xx-multiple-1946-05-01-0000-rocket-cigar-0019",
+        "case_title": "Rocket/cigar sighting in Multiple (1946-05-01)",
+        "city": "Multiple",
+        "state": "",
+        "country": "SWEDEN",
+        "location_text": "Multiple, SWEDEN",
+        "shape": "rocket/cigar",
+        "case_type": "variable / unclear",
+        "sighted_date": "1946-05-01T08:00:00.000Z",
+        "sighted_datetime": "1946-05-01T08:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Rocket/cigar sighting in Multiple (1946-05-01). Reported 1946-05-01 in Multiple, SWEDEN. From May 1946, observers across Sweden and other Scandinavian countries reported rocket- or cigar-shaped objects streaking through the sky, prompting a Swedish military investigat…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4435,
+          47.377
+        ]
+      },
+      "properties": {
+        "case_id": "us-washington-maury-island-1947-06-21-0000-donut-debris-0020",
+        "case_title": "Donut/debris sighting in Maury Island (1947-06-21)",
+        "city": "Maury Island",
+        "state": "WASHINGTON",
+        "country": "US",
+        "location_text": "Maury Island, WASHINGTON, US",
+        "shape": "donut/debris",
+        "case_type": "variable / unclear",
+        "sighted_date": "1947-06-21T08:00:00.000Z",
+        "sighted_datetime": "1947-06-21T08:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Donut/debris sighting in Maury Island (1947-06-21). Reported 1947-06-21 in Maury Island, WASHINGTON, US. Harold Dahl reported a group of donut-shaped craft over Maury Island, Washington in June 1947, with claims of falling slag-like debris and an alleged Men in Black encounter that b…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "case_id": "us-xx-multiple-1947-06-24-0000-disc-0021",
+        "case_title": "Disc sighting in Multiple (1947-06-24)",
+        "city": "Multiple",
+        "state": "",
+        "country": "US",
+        "location_text": "Multiple, US",
+        "shape": "disc",
+        "case_type": "variable / unclear",
+        "sighted_date": "1947-06-24T08:00:00.000Z",
+        "sighted_datetime": "1947-06-24T08:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Disc sighting in Multiple (1947-06-24). Reported 1947-06-24 in Multiple, US. Following Kenneth Arnold's June 1947 sighting, hundreds of 'flying disc' reports surfaced across the United States in the summer of 1947, marking the launch of the modern UFO era.",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2999,
+          32.3668
+        ]
+      },
+      "properties": {
+        "case_id": "us-alabama-montgomery-1948-07-24-0245-torpedo-cigar-0022",
+        "case_title": "Torpedo/cigar sighting in Montgomery (1948-07-24)",
+        "city": "Montgomery",
+        "state": "ALABAMA",
+        "country": "US",
+        "location_text": "Montgomery, ALABAMA, US",
+        "shape": "torpedo/cigar",
+        "case_type": "variable / unclear",
+        "sighted_date": "1948-07-24T07:00:00.000Z",
+        "sighted_datetime": "1948-07-24T09:45:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Torpedo/cigar sighting in Montgomery (1948-07-24). Reported 1948-07-24 in Montgomery, ALABAMA, US. Eastern Air Lines pilots Clarence Chiles and John Whitted reported a torpedo-shaped craft with windows passing their DC-3 near Montgomery, Alabama in July 1948.",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7898,
+          46.8772
+        ]
+      },
+      "properties": {
+        "case_id": "us-north-dakota-fargo-1948-10-01-2100-light-sphere-0023",
+        "case_title": "Light/sphere sighting in Fargo (1948-10-01)",
+        "city": "Fargo",
+        "state": "NORTH DAKOTA",
+        "country": "US",
+        "location_text": "Fargo, NORTH DAKOTA, US",
+        "shape": "light/sphere",
+        "case_type": "variable / unclear",
+        "sighted_date": "1948-10-01T07:00:00.000Z",
+        "sighted_datetime": "1948-10-02T04:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Light/sphere sighting in Fargo (1948-10-01). Reported 1948-10-01 in Fargo, NORTH DAKOTA, US. National Guard pilot George Gorman reported an extended aerial pursuit of a maneuvering bright light over Fargo, North Dakota in October 1948, in what became known as the 'Gorman…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5772,
+          36.7223
+        ]
+      },
+      "properties": {
+        "case_id": "us-kentucky-franklin-1948-01-07-1515-cone-disc-0024",
+        "case_title": "Cone/disc sighting in Franklin (1948-01-07)",
+        "city": "Franklin",
+        "state": "KENTUCKY",
+        "country": "US",
+        "location_text": "Franklin, KENTUCKY, US",
+        "shape": "cone/disc",
+        "case_type": "variable / unclear",
+        "sighted_date": "1948-01-07T08:00:00.000Z",
+        "sighted_datetime": "1948-01-07T23:15:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Cone/disc sighting in Franklin (1948-01-07). Reported 1948-01-07 in Franklin, KENTUCKY, US. Kentucky Air National Guard pilot Thomas Mantell died while pursuing an unidentified high-altitude object in January 1948, becoming the first widely reported pilot fatality associ…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3008,
+          47.5053
+        ]
+      },
+      "properties": {
+        "case_id": "us-montana-great-falls-1950-08-15-1130-disc-light-0025",
+        "case_title": "Disc/light sighting in Great Falls (1950-08-15)",
+        "city": "Great Falls",
+        "state": "MONTANA",
+        "country": "US",
+        "location_text": "Great Falls, MONTANA, US",
+        "shape": "disc/light",
+        "case_type": "variable / unclear",
+        "sighted_date": "1950-08-15T07:00:00.000Z",
+        "sighted_datetime": "1950-08-15T18:30:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Disc/light sighting in Great Falls (1950-08-15). Reported 1950-08-15 in Great Falls, MONTANA, US. Nick Mariana, manager of the Great Falls baseball team, filmed two bright objects moving across the sky over Great Falls, Montana in August 1950, producing one of the earliest UFO…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6515,
+          38.7212
+        ]
+      },
+      "properties": {
+        "case_id": "us-west-virginia-flatwoods-1952-09-12-1915-sphere-being-0026",
+        "case_title": "Sphere/being sighting in Flatwoods (1952-09-12)",
+        "city": "Flatwoods",
+        "state": "WEST VIRGINIA",
+        "country": "US",
+        "location_text": "Flatwoods, WEST VIRGINIA, US",
+        "shape": "sphere/being",
+        "case_type": "variable / unclear",
+        "sighted_date": "1952-09-12T07:00:00.000Z",
+        "sighted_datetime": "1952-09-13T02:15:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Sphere/being sighting in Flatwoods (1952-09-12). Reported 1952-09-12 in Flatwoods, WEST VIRGINIA, US. Witnesses near Flatwoods, West Virginia in September 1952 reported a glowing object descending into a hillside followed by an encounter with a tall, robed entity, an event that be…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4886,
+          36.8656
+        ]
+      },
+      "properties": {
+        "case_id": "us-kentucky-hopkinsville-1955-08-21-1900-light-beings-0027",
+        "case_title": "Light/beings sighting in Hopkinsville (1955-08-21)",
+        "city": "Hopkinsville",
+        "state": "KENTUCKY",
+        "country": "US",
+        "location_text": "Hopkinsville, KENTUCKY, US",
+        "shape": "light/beings",
+        "case_type": "variable / unclear",
+        "sighted_date": "1955-08-21T07:00:00.000Z",
+        "sighted_datetime": "1955-08-22T02:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Light/beings sighting in Hopkinsville (1955-08-21). Reported 1955-08-21 in Hopkinsville, KENTUCKY, US. The Sutton family near Kelly, Kentucky reported a prolonged August 1955 siege by small, glowing humanoid beings around their farmhouse, one of the most famous close encounters of…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.378,
+          33.5873
+        ]
+      },
+      "properties": {
+        "case_id": "us-texas-levelland-1957-11-02-2300-egg-oval-0028",
+        "case_title": "Egg/oval sighting in Levelland (1957-11-02)",
+        "city": "Levelland",
+        "state": "TEXAS",
+        "country": "US",
+        "location_text": "Levelland, TEXAS, US",
+        "shape": "egg/oval",
+        "case_type": "variable / unclear",
+        "sighted_date": "1957-11-02T08:00:00.000Z",
+        "sighted_datetime": "1957-11-03T07:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Egg/oval sighting in Levelland (1957-11-02). Reported 1957-11-02 in Levelland, TEXAS, US. Multiple drivers near Levelland, Texas in November 1957 reported large egg-shaped objects on or near roadways with simultaneous vehicle ignition failures, a defining electromagnet…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4611,
+          40.1848
+        ]
+      },
+      "properties": {
+        "case_id": "us-pennsylvania-kecksburg-1965-12-09-1630-acorn-crash-0029",
+        "case_title": "Acorn/crash sighting in Kecksburg (1965-12-09)",
+        "city": "Kecksburg",
+        "state": "PENNSYLVANIA",
+        "country": "US",
+        "location_text": "Kecksburg, PENNSYLVANIA, US",
+        "shape": "acorn/crash",
+        "case_type": "variable / unclear",
+        "sighted_date": "1965-12-09T08:00:00.000Z",
+        "sighted_datetime": "1965-12-10T00:30:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Acorn/crash sighting in Kecksburg (1965-12-09). Reported 1965-12-09 in Kecksburg, PENNSYLVANIA, US. Witnesses reported an acorn-shaped object descending into woods near Kecksburg, Pennsylvania in December 1965, followed by a heavy military presence and recovery operation.",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1167,
+          -37.9333
+        ]
+      },
+      "properties": {
+        "case_id": "australia-victoria-clayton-south-1966-04-06-1100-saucer-0030",
+        "case_title": "Saucer sighting in Clayton South (1966-04-06)",
+        "city": "Clayton South",
+        "state": "VICTORIA",
+        "country": "AUSTRALIA",
+        "location_text": "Clayton South, VICTORIA, AUSTRALIA",
+        "shape": "saucer",
+        "case_type": "variable / unclear",
+        "sighted_date": "1966-04-06T08:00:00.000Z",
+        "sighted_datetime": "1966-04-06T19:00:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Saucer sighting in Clayton South (1966-04-06). Reported 1966-04-06 in Clayton South, VICTORIA, AUSTRALIA. More than two hundred students and teachers at Westall High School near Clayton South, Victoria observed a saucer-shaped craft descend, land briefly, and depart in April 1966, Aus…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9167,
+          10.5833
+        ]
+      },
+      "properties": {
+        "case_id": "costa-rica-alajuela-lake-cote-area-1971-09-04-0825-disc-aerial-mapping-0031",
+        "case_title": "Disc/aerial mapping sighting in Lake Cote Area (1971-09-04)",
+        "city": "Lake Cote Area",
+        "state": "ALAJUELA",
+        "country": "COSTA RICA",
+        "location_text": "Lake Cote Area, ALAJUELA, COSTA RICA",
+        "shape": "disc/aerial mapping",
+        "case_type": "variable / unclear",
+        "sighted_date": "1971-09-04T07:00:00.000Z",
+        "sighted_datetime": "1971-09-04T15:25:00.000Z",
+        "encounter_duration_seconds": "",
+        "map_popup_summary": "Disc/aerial mapping sighting in Lake Cote Area (1971-09-04). Reported 1971-09-04 in Lake Cote Area, ALAJUELA, COSTA RICA. A Costa Rican government aerial mapping survey on September 4, 1971 captured a metallic disc-shaped object over Lake Cote, producing one of the highest-resolution and best-provena…",
+        "related_case_page": "",
+        "review_status": "unreviewed",
+        "published_status": "draft",
+        "source_name": "NUFORC export",
+        "duplicate_status": "unique"
+      }
+    }
+  ]
+}
